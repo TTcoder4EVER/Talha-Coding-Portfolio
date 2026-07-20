@@ -1,2 +1,2 @@
 # Talha-Coding-Portfolio
-A simple website to show my coding projects over time.
+A simple website to show my coding projects over time, from basic to some of the hardest i have ever done, this shows my determination and dedication towards coding, and the future.
