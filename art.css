@@ -1,0 +1,20 @@
+body{
+    background-color: lightgrey;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 32px;
+    font-weight:lighter;
+}
+
+p{
+    font-size: 25px;
+    font-style: italic;
+    line-height: 1.5;
+}
